@@ -1,0 +1,15 @@
+#################################
+##			       ##
+##     HELLO WORLD!!!	       ##
+##			       ##
+#################################
+|				|
+|				|
+|NAMA        : NURMAN AWALUDDIN	|
+|ASAL KAMPUS : UNIVERSITAS	|
+|	       MUHAMMADIYAH	|
+|	       MAKASSAR		|
+|JURUSAN     : TEKNIK		|
+|              INFORMATIKA	|
+|				|
+#################################
